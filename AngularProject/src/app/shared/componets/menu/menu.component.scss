@@ -1,0 +1,17 @@
+*{
+    background-color: antiquewhite;
+}
+ul{
+    margin: 0;
+}
+ul>li{
+    list-style: none;
+    display: inline-block;
+    margin: 5px 20px;
+}
+ul>li>a{
+    text-decoration: none;
+}
+ul>li:hover{
+    color: black;
+}
